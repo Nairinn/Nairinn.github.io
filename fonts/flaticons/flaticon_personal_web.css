@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "flaticon_personal_web";
+    src: url("./flaticon_personal_web.woff2?1c768b2ba2ec5d26e566c6e3fc9e4381") format("woff2"),
+url("./flaticon_personal_web.woff?1c768b2ba2ec5d26e566c6e3fc9e4381") format("woff"),
+url("./flaticon_personal_web.eot?1c768b2ba2ec5d26e566c6e3fc9e4381#iefix") format("embedded-opentype"),
+url("./flaticon_personal_web.ttf?1c768b2ba2ec5d26e566c6e3fc9e4381") format("truetype"),
+url("./flaticon_personal_web.svg?1c768b2ba2ec5d26e566c6e3fc9e4381#flaticon_personal_web") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_personal_web !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-atom:before {
+    content: "\f101";
+}
+.flaticon-graduation-cap:before {
+    content: "\f102";
+}
+.flaticon-sports:before {
+    content: "\f103";
+}
+.flaticon-calculating:before {
+    content: "\f104";
+}
+

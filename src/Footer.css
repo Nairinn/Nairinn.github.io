@@ -1,0 +1,46 @@
+footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.social-footer {
+    margin-top: 15px;
+    font-size: 2.5rem;
+}
+
+.social-footer a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.social-footer i {
+    transition: color 0.3s;
+}
+
+.social-footer a:hover i {
+    color: #ffb400;
+}
+
+.logo {
+    font-family: 'Didot', 'DM Sans', sans-serif;
+    font-size: 4em;
+    color: lightblue;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(2);
+    color: #fff;
+}

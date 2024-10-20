@@ -1,0 +1,67 @@
+.section-image {
+    position: relative;
+}
+
+.img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.intro {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    color: white;
+}
+
+.intro h5 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.intro h1 {
+    font-size: 5em;
+    margin: 0;
+    transition: color 0.3s ease;
+}
+
+.intro h1:hover {
+    color: #ffcc00;
+}
+
+.intro-desc {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.colour-splash {
+    color: #ffcc00;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social a {
+    color: white;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+.social a:hover {
+    color: #ffcc00;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}

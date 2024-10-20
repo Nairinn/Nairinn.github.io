@@ -1,0 +1,28 @@
+.section-primary {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 60px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+}
+
+.profilepic {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 3rem;
+    margin: 20px 0;
+    transition: color 0.3s ease;
+}
+
+h2:hover {
+    color: #ffcc00;
+}
+
+.lead {
+    font-size: 2rem;
+}

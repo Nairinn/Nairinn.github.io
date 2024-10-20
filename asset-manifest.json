@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nairinn.github.io/static/css/main.f7407f81.css",
+    "main.js": "/nairinn.github.io/static/js/main.2a3bdf27.js",
+    "static/js/453.76c7fe5b.chunk.js": "/nairinn.github.io/static/js/453.76c7fe5b.chunk.js",
+    "static/media/IMG_4363.JPG": "/nairinn.github.io/static/media/IMG_4363.91742714edead06789be.JPG",
+    "static/media/Bc1.gif": "/nairinn.github.io/static/media/Bc1.7e08cf3eaf3fe154378e.gif",
+    "index.html": "/nairinn.github.io/index.html",
+    "main.f7407f81.css.map": "/nairinn.github.io/static/css/main.f7407f81.css.map",
+    "main.2a3bdf27.js.map": "/nairinn.github.io/static/js/main.2a3bdf27.js.map",
+    "453.76c7fe5b.chunk.js.map": "/nairinn.github.io/static/js/453.76c7fe5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7407f81.css",
+    "static/js/main.2a3bdf27.js"
+  ]
+}
